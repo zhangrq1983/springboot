@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    username: root
+    password: root
+#    url: jdbc:mysql://192.168.15.22/jpa
+#    driver-class-name: com.mysql.jdbc.Driver
+
+    url: jdbc:mysql://127.0.0.1:3306/springboot_jpa?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+#     更新或者创建数据表结构
+      ddl-auto: update
+#    控制台显示SQL
+    show-sql: true

@@ -1,0 +1,68 @@
+DELETE http://localhost:8080/delemp?id=4&lastname=z
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T111259.200.txt
+
+###
+
+DELETE http://localhost:8080/delemp?id=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T111229.200.txt
+
+###
+
+DELETE http://localhost:8080/delemp?id=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T111204.200.txt
+
+###
+
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+
+###
+DELETE http://localhost:8080/delemp?id=4&lastName=张三&gender=1&email=zhangsan@163.com&id=4&lastName=张5&gender=1&email=zhangsan@163.com&id=4&lastName=你好&gender=1&email=zhangsan@163.com&id=4&id=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T110914.200.txt
+
+###
+
+POST http://localhost:8080/delemp?id=4&lastName=张三&gender=1&email=zhangsan@163.com&id=4&lastName=张5&gender=1&email=zhangsan@163.com&id=4&lastName=你好&gender=1&email=zhangsan@163.com&id=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T110844.405.json
+
+###
+
+POST http://localhost:8080/emp?id=4&lastName=张三&gender=1&email=zhangsan@163.com&id=4&lastName=张5&gender=1&email=zhangsan@163.com&id=4&lastName=你好&gender=1&email=zhangsan@163.com
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T110733.200.json
+
+###
+
+POST http://localhost:8080/emp?id=4&lastName=张三&gender=1&email=zhangsan@163.com&id=4&lastName=张5&gender=1&email=zhangsan@163.com
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T110637.200.json
+
+###
+
+POST http://localhost:8080/emp?id=4&lastName=张三&gender=1&email=zhangsan@163.com
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-11T110535.200.json
+
+###
+

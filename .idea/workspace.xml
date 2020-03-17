@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring-boot-04-web-jsp:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="771c3b09-89dd-4524-937f-6d03c1944501" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="XHTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\DevelopmentEnvironment\repository" />
+        <option name="mavenHome" value="D:/DevelopmentEnvironment/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\DevelopmentEnvironment\repository\settings_Jdk_1.8.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YZ2x3GjwopQABXkD99EsevRDXD" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="XHTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15350488" />
+    <property name="project.structure.side.proportion" value="0.3487298" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\MyCode\springboot\spring-boot-04-web-restfulcrud\src\main\resources\templates\error" />
+      <recent name="D:\Code\MyCode\springboot\spring-boot-04-web-restfulcrud\src\main\resources\public" />
+      <recent name="D:\Code\MyCode\springboot\spring-boot-04-web-restfulcrud\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.config" />
+      <recent name="com.example.controller" />
+      <recent name="com.example" />
+      <recent name="org.example.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\MyCode\springboot\springboot-17-actuator" />
+      <recent name="D:\Code\MyCode\springboot\springboot-16-deploy" />
+      <recent name="D:\Code\MyCode\springboot\springboot-15-springcloud-consumer" />
+      <recent name="D:\Code\MyCode\springboot\springboot-15-springcloud-provider\src" />
+      <recent name="D:\Code\MyCode\springboot\springboot-15-springcloud-eureka\src" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/delemp" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastname" />
+                <option name="value" value="z" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/delemp" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/delemp" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastName" />
+                <option name="value" value="张三" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="gender" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="zhangsan@163.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastName" />
+                <option name="value" value="张5" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="gender" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="zhangsan@163.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastName" />
+                <option name="value" value="你好" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="gender" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="zhangsan@163.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/delemp" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastName" />
+                <option name="value" value="张三" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="gender" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="zhangsan@163.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastName" />
+                <option name="value" value="张5" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="gender" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="zhangsan@163.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastName" />
+                <option name="value" value="你好" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="gender" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="zhangsan@163.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/emp" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastName" />
+                <option name="value" value="张三" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="gender" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="zhangsan@163.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastName" />
+                <option name="value" value="张5" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="gender" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="zhangsan@163.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastName" />
+                <option name="value" value="你好" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="gender" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="zhangsan@163.com" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/emp" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastName" />
+                <option name="value" value="张三" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="gender" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="zhangsan@163.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastName" />
+                <option name="value" value="张5" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="gender" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="zhangsan@163.com" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/emp" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="4" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="lastName" />
+                <option name="value" value="张三" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="gender" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="zhangsan@163.com" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot17ActuatorApplication">
+    <configuration name="SpringBoot06DataJdbcApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="spring-boot-06-data-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.SpringBoot06DataJdbcApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot09CacheApplicationTests.test01" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-09-cache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot09CacheApplicationTests" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot09CacheApplicationTests.test02" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-09-cache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot09CacheApplicationTests" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10AmqpApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-10-amqp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot10AmqpApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10AmqpApplicationTests.createExchange" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-10-amqp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot10AmqpApplicationTests" />
+      <option name="METHOD_NAME" value="createExchange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10AmqpApplicationTests.receive" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-10-amqp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot10AmqpApplicationTests" />
+      <option name="METHOD_NAME" value="receive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10AmqpApplicationTests.sendMsg" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-10-amqp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot10AmqpApplicationTests" />
+      <option name="METHOD_NAME" value="sendMsg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot11ElasticApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-11-elastic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot11ElasticApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot11ElasticApplicationTests.search" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-11-elastic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot11ElasticApplicationTests" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot11ElasticApplicationTests.test02" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-11-elastic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot11ElasticApplicationTests" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot12TaskApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-12-task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot12TaskApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot12TaskApplicationTests.test02" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-12-task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot12TaskApplicationTests" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot14DubboConsumerUserApplicationTests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-14-dubbo-consumer-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot14DubboConsumerUserApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot14DubboConsumerUserApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-14-dubbo-consumer-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot14DubboConsumerUserApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-boot-01-helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.HelloWorldMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot01HelloworldQuickApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-01-helloworld-quick" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringBoot01HelloworldQuickApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02Config02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-02-config-02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringBoot02Config02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-02-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringBoot02ConfigApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02ConfigAutoconfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-02-config-autoconfig" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringBoot02ConfigAutoconfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot03LoggingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-03-logging" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringBoot03LoggingApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot04WebJspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-04-web-jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringBoot04WebJspApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot04WebRestfulcrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-04-web-restfulcrud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringBoot04WebRestfulcrudApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringBoot06DataJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringBoot06DataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringBoot06DataMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot07Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-07" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringBoot07Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot08StarterTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-08-starter-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringBoot08StarterTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot09CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-09-cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot09CacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10AmqpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-10-amqp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot10AmqpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot11ElasticApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-11-elastic" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot11ElasticApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot12TaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-12-task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot12TaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot13SecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-13-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot13SecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot14DubboConsumerUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-14-dubbo-consumer-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot14DubboConsumerUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot14DubboProviderTicketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-14-dubbo-provider-ticket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot14DubboProviderTicketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot15SpringcloudConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-15-springcloud-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot15SpringcloudConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot15SpringcloudEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-15-springcloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot15SpringcloudEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot15SpringcloudProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-15-springcloud-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot15SpringcloudProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot16DeployApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-16-deploy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot16DeployApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot17ActuatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-17-actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot17ActuatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.40" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.40" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/spring_boot_04_web_jsp/" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8 -Xms256M -Xmx512M -XX:PermSize=256M -XX:MaxPermSize=512M" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="spring-boot-04-web-jsp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/spring_boot_04_web_jsp" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_springboot" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64216" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="spring-boot-04-web-jsp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Springboot14DubboConsumerUserApplicationTests" />
+      <item itemvalue="JUnit.Springboot12TaskApplicationTests.test02" />
+      <item itemvalue="JUnit.Springboot11ElasticApplicationTests.search" />
+      <item itemvalue="JUnit.Springboot11ElasticApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.Springboot10AmqpApplicationTests.createExchange" />
+      <item itemvalue="JUnit.Springboot10AmqpApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.Springboot10AmqpApplicationTests.receive" />
+      <item itemvalue="JUnit.Springboot10AmqpApplicationTests.sendMsg" />
+      <item itemvalue="JUnit.Springboot09CacheApplicationTests.test01" />
+      <item itemvalue="JUnit.Springboot09CacheApplicationTests.test02" />
+      <item itemvalue="JUnit.SpringBoot06DataJdbcApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.Springboot12TaskApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.Springboot11ElasticApplicationTests.test02" />
+      <item itemvalue="JUnit.Springboot14DubboConsumerUserApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.Springboot13SecurityApplication" />
+      <item itemvalue="Spring Boot.Springboot12TaskApplication" />
+      <item itemvalue="Spring Boot.Springboot11ElasticApplication" />
+      <item itemvalue="Spring Boot.Springboot10AmqpApplication" />
+      <item itemvalue="Spring Boot.SpringBoot06DataJdbcApplication" />
+      <item itemvalue="Spring Boot.SpringBoot03LoggingApplication" />
+      <item itemvalue="Spring Boot.HelloWorldMainApplication" />
+      <item itemvalue="Spring Boot.SpringBoot01HelloworldQuickApplication" />
+      <item itemvalue="Spring Boot.SpringBoot02ConfigApplication" />
+      <item itemvalue="Spring Boot.SpringBoot02Config02Application" />
+      <item itemvalue="Spring Boot.SpringBoot02ConfigAutoconfigApplication" />
+      <item itemvalue="Spring Boot.SpringBoot04WebRestfulcrudApplication" />
+      <item itemvalue="Spring Boot.SpringBoot04WebJspApplication" />
+      <item itemvalue="Spring Boot.SpringBoot06DataMybatisApplication" />
+      <item itemvalue="Spring Boot.SpringBoot06DataJpaApplication" />
+      <item itemvalue="Spring Boot.SpringBoot07Application" />
+      <item itemvalue="Spring Boot.SpringBoot08StarterTestApplication" />
+      <item itemvalue="Spring Boot.Springboot09CacheApplication" />
+      <item itemvalue="Spring Boot.Springboot14DubboProviderTicketApplication" />
+      <item itemvalue="Spring Boot.Springboot14DubboConsumerUserApplication" />
+      <item itemvalue="Spring Boot.Springboot15SpringcloudProviderApplication" />
+      <item itemvalue="Spring Boot.Springboot15SpringcloudEurekaServerApplication" />
+      <item itemvalue="Spring Boot.Springboot15SpringcloudConsumerApplication" />
+      <item itemvalue="Spring Boot.Springboot16DeployApplication" />
+      <item itemvalue="Spring Boot.Springboot17ActuatorApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.40" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.21783626" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="771c3b09-89dd-4524-937f-6d03c1944501" name="Default Changelist" comment="" />
+      <created>1583136038240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583136038240</updated>
+      <workItem from="1583136039468" duration="4518000" />
+      <workItem from="1583196191467" duration="2816000" />
+      <workItem from="1583199035245" duration="624000" />
+      <workItem from="1583199664450" duration="901000" />
+      <workItem from="1583200571179" duration="18399000" />
+      <workItem from="1583283628064" duration="318000" />
+      <workItem from="1583284018771" duration="50000" />
+      <workItem from="1583284077393" duration="16000" />
+      <workItem from="1583284146091" duration="18125000" />
+      <workItem from="1583309569473" duration="1474000" />
+      <workItem from="1583313976127" duration="871000" />
+      <workItem from="1583322041137" duration="4375000" />
+      <workItem from="1583368895417" duration="19788000" />
+      <workItem from="1583415576058" duration="2066000" />
+      <workItem from="1583480292728" duration="1566000" />
+      <workItem from="1583491556630" duration="16267000" />
+      <workItem from="1583552791253" duration="12835000" />
+      <workItem from="1583570205426" duration="172000" />
+      <workItem from="1583582060854" duration="8503000" />
+      <workItem from="1583670047771" duration="8038000" />
+      <workItem from="1583717166735" duration="391000" />
+      <workItem from="1583719891555" duration="2670000" />
+      <workItem from="1583723784097" duration="4524000" />
+      <workItem from="1583736030964" duration="8090000" />
+      <workItem from="1583761557994" duration="5607000" />
+      <workItem from="1583802654706" duration="10060000" />
+      <workItem from="1583828911475" duration="150000" />
+      <workItem from="1583839666190" duration="84000" />
+      <workItem from="1583839963080" duration="467000" />
+      <workItem from="1583840703725" duration="319000" />
+      <workItem from="1583841100311" duration="488000" />
+      <workItem from="1583841865592" duration="1285000" />
+      <workItem from="1583844329601" duration="4960000" />
+      <workItem from="1583888102279" duration="608000" />
+      <workItem from="1583888770344" duration="10019000" />
+      <workItem from="1583928901605" duration="9743000" />
+      <workItem from="1583973770912" duration="8256000" />
+      <workItem from="1584087839305" duration="3332000" />
+      <workItem from="1584117604003" duration="2251000" />
+      <workItem from="1584162116157" duration="7688000" />
+      <workItem from="1584171951029" duration="3693000" />
+      <workItem from="1584191582140" duration="8382000" />
+      <workItem from="1584200182039" duration="4257000" />
+      <workItem from="1584241276576" duration="7425000" />
+      <workItem from="1584277209637" duration="8483000" />
+      <workItem from="1584339323127" duration="239000" />
+      <workItem from="1584339610212" duration="92000" />
+      <workItem from="1584339803693" duration="17000" />
+      <workItem from="1584407489086" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#HTTP_Proxy" timestamp="1583896193012">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#HTTP_Proxy/0.0.1600.860@0.0.1600.860" timestamp="1583896193012" />
+    <state x="347" y="88" key="#Inspections" timestamp="1583740680436">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="312" y="88" key="#Inspections/0.0.1440.860@0.0.1440.860" timestamp="1583326956996" />
+    <state x="347" y="88" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1583740680436" />
+    <state x="353" y="88" key="#Project_Structure" timestamp="1583415748911">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="353" y="88" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1583415748911" />
+    <state x="392" y="88" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1583283709732" />
+    <state x="229" y="85" width="1092" height="718" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584245498189">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="229" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1584245498189" />
+    <state x="254" y="85" width="1092" height="718" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1583398939359" />
+    <state x="824" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1584193313175">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="824" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1584193313175" />
+    <state x="736" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1583813826770" />
+    <state x="367" y="88" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1583590739491">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="367" y="88" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1440.860@0.0.1440.860" timestamp="1583590739491" />
+    <state x="518" y="341" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1583590571854">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="518" y="341" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1440.860@0.0.1440.860" timestamp="1583590571854" />
+    <state x="580" y="341" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1583590533724">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="580" y="341" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1440.860@0.0.1440.860" timestamp="1583590533724" />
+    <state x="351" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584282381338">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="351" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.860@0.0.1440.860" timestamp="1584282381338" />
+    <state x="390" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860@0.0.1600.860" timestamp="1583996797416" />
+    <state x="400" y="288" width="640" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584192423443">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="400" y="288" width="640" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.860@0.0.1440.860" timestamp="1584192423443" />
+    <state x="400" y="309" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584282383439">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="400" y="309" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.860@0.0.1440.860" timestamp="1584282383439" />
+    <state x="444" y="309" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1600.860@0.0.1600.860" timestamp="1583996808090" />
+    <state x="567" y="297" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog" timestamp="1583896475325">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="567" y="297" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog/0.0.1600.860@0.0.1600.860" timestamp="1583896475325" />
+    <state x="475" y="132" key="#xdebugger.evaluate" timestamp="1583941713963">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="475" y="132" key="#xdebugger.evaluate/0.0.1440.860@0.0.1440.860" timestamp="1583941713963" />
+    <state width="522" height="466" key="DebuggerActiveHint" timestamp="1583941719568">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="522" height="466" key="DebuggerActiveHint/0.0.1440.860@0.0.1440.860" timestamp="1583941719568" />
+    <state width="469" height="466" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1583820312346" />
+    <state x="522" y="185" key="FileChooserDialogImpl" timestamp="1584281820866">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="522" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584281820866" />
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583911798578" />
+    <state width="1069" height="263" key="GridCell.Tab.0.bottom" timestamp="1584285755890">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1069" height="263" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584285755890" />
+    <state width="1557" height="192" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584091511106" />
+    <state width="1069" height="263" key="GridCell.Tab.0.center" timestamp="1584285755890">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1069" height="263" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1584285755890" />
+    <state width="1557" height="192" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584091511106" />
+    <state width="1069" height="263" key="GridCell.Tab.0.left" timestamp="1584285755890">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1069" height="263" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1584285755890" />
+    <state width="1557" height="192" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584091511106" />
+    <state width="1069" height="263" key="GridCell.Tab.0.right" timestamp="1584285755890">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1069" height="263" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584285755890" />
+    <state width="1557" height="192" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584091511106" />
+    <state width="1069" height="263" key="GridCell.Tab.1.bottom" timestamp="1584285755891">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1069" height="263" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584285755891" />
+    <state width="1236" height="239" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584002409223" />
+    <state width="1069" height="263" key="GridCell.Tab.1.center" timestamp="1584285755891">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1069" height="263" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1584285755891" />
+    <state width="1236" height="239" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1584002409223" />
+    <state width="1069" height="263" key="GridCell.Tab.1.left" timestamp="1584285755891">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1069" height="263" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1584285755891" />
+    <state width="1236" height="239" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1584002409222" />
+    <state width="1069" height="263" key="GridCell.Tab.1.right" timestamp="1584285755891">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1069" height="263" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1584285755891" />
+    <state width="1236" height="239" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1584002409223" />
+    <state width="995" height="289" key="GridCell.Tab.2.bottom" timestamp="1584247094193">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="995" height="289" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584247094193" />
+    <state width="1236" height="223" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583821077074" />
+    <state width="995" height="289" key="GridCell.Tab.2.center" timestamp="1584247094193">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="995" height="289" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1584247094193" />
+    <state width="1236" height="223" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1583821077074" />
+    <state width="995" height="289" key="GridCell.Tab.2.left" timestamp="1584247094193">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="995" height="289" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1584247094193" />
+    <state width="1236" height="223" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1583821077074" />
+    <state width="995" height="289" key="GridCell.Tab.2.right" timestamp="1584247094193">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="995" height="289" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1584247094193" />
+    <state width="1236" height="223" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1583821077074" />
+    <state x="330" y="85" key="Maven.ArtifactSearchDialog" timestamp="1583207005084">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="85" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1583207005084" />
+    <state x="396" y="127" key="NewModule_or_Project.wizard" timestamp="1584281823322">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="396" y="127" key="NewModule_or_Project.wizard/0.0.1440.860@0.0.1440.860" timestamp="1584281823322" />
+    <state x="440" y="127" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1583217770290" />
+    <state x="291" y="95" key="Registry" timestamp="1583496619343">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="291" y="95" key="Registry/0.0.1440.860@0.0.1440.860" timestamp="1583496619343" />
+    <state x="301" y="9" key="SettingsEditor" timestamp="1584339629509">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="271" y="9" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584200327157" />
+    <state x="301" y="9" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1584339629509" />
+    <state x="606" y="131" key="SpringBootCustomization" timestamp="1583196443668">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="606" y="131" key="SpringBootCustomization/0.0.1600.860@0.0.1600.860" timestamp="1583196443668" />
+    <state x="298" y="166" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583820999895">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="298" y="166" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1583820999895" />
+    <state x="428" y="163" width="708" height="600" key="find.popup" timestamp="1583481775537">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="428" y="163" width="708" height="600" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1583481775537" />
+    <state x="476" y="163" width="786" height="600" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1583204854485" />
+    <state x="159" y="130" key="new project wizard" timestamp="1584281990489">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="159" y="130" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1584281990489" />
+    <state x="174" y="79" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1583995949128" />
+    <state x="417" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1584283022702">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="417" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1584283022702" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1583999885489" />
+    <state x="346" y="112" key="spring file set editor" timestamp="1583415746294">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="346" y="112" key="spring file set editor/0.0.1440.860@0.0.1440.860" timestamp="1583415746294" />
+    <state x="384" y="112" key="spring file set editor/0.0.1600.860@0.0.1600.860" timestamp="1583283707469" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/DevelopmentEnvironment/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfigurationImportSelector.class</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/DevelopmentEnvironment/repository/org/springframework/spring-context/4.3.13.RELEASE/spring-context-4.3.13.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>265</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-07/src/main/java/com/example/SpringBoot07Application.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/DevelopmentEnvironment/repository/org/springframework/boot/spring-boot/2.2.5.RELEASE/spring-boot-2.2.5.RELEASE.jar!/org/springframework/boot/SpringApplication.class</url>
+          <line>156</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-14-dubbo-provider-ticket/src/main/java/com/example/ticket/service/TicketServiceImpl.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

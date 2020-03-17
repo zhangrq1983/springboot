@@ -1,0 +1,31 @@
+server:
+  port: 8081
+spring:
+  profiles:
+    active: prod
+
+---
+server:
+  port: 8083
+spring:
+  profiles: dev
+
+---
+server:
+  port: 8084
+spring:
+  profiles: prod
+
+#---
+#person:
+#  last-name: hello #张三${random.uuid}
+#  age: 18 #${random.int}
+#  birth: 2017/12/15
+#  boss: false
+#  maps: {k1: v1,k2: 12}
+#  lists: #a,b,c
+#    - lisi
+#    - zhaoliu
+#  dog:
+#    name: xiaogou #${person.hello:hello}_dog
+#    age: 12
